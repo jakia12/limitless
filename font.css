@@ -1,0 +1,6 @@
+@font-face {
+  font-family: "typewriter"; /* Give your font a name */
+  src: url("./oldnewspapertypes/OldNewspaperTypes.ttf") format("woff"); /* Replace 'path/to/yourfont.woff' with the actual path to your font file */
+  font-weight: normal;
+  font-style: normal;
+}
